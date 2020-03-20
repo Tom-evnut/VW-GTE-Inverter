@@ -1,0 +1,362 @@
+Plot Report
+-----------
+
+Report Written:     Tuesday, April 02, 2019
+Project Path:       C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj
+Design Path:        C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb
+Design Title:       
+Created:            02-Apr-19 5:05:44 PM
+Last Saved:         02-Apr-19 6:26:25 PM
+Editing Time:       82 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 3.94
+    D11    Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 3.94
+    D12    Round 7.87
+    D13    Round 5.00
+    D16    Round 19.69
+    D17    Round 1.00
+    D77    Round 39.37
+    D112   Round 6.00
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D13    Round 5.00
+    D14    Round 10.00
+    D15    Round 15.75
+    D20    Round 94.49
+    D24    Square 64.96
+    D25    Round 64.96
+    D26    Rectangle 39.37 X 57.09
+    D28    Rectangle 41.34 X 47.24  Rotation 90
+    D72    Round 48.00
+    D73    Round 15.00
+    D74    Round 59.06
+    D76    Round 31.50
+    D113   Round 314.96
+    D114   Rectangle 31.50 X 43.31  Rotation 90
+    D115   Rectangle 47.24 X 106.30  Rotation 90
+    D116   Oval 60.00 X 120.00
+    D117   Octagon 60.00
+    D118   Rectangle 19.69 X 49.21  Rotation 90
+    D119   Square 59.06
+    D120   Square 94.49
+    D121   Round 56.00
+    D122   Round 50.00
+    D123   Round 47.24
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D82    Round 104.49
+    D86    Square 74.96
+    D87    Round 74.96
+    D88    Rectangle 49.37 X 67.09
+    D90    Rectangle 51.34 X 57.24  Rotation 90
+    D124   Round 324.96
+    D125   Rectangle 41.50 X 53.31  Rotation 90
+    D126   Round 72.99
+    D127   Rectangle 57.24 X 116.30  Rotation 90
+    D128   Oval 70.00 X 130.00
+    D129   Octagon 60.00
+    D130   Rectangle 29.69 X 59.21  Rotation 90
+    D131   Square 69.06
+    D132   Round 69.06
+    D133   Square 104.49
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D92    Rectangle 35.37 X 53.09
+    D94    Rectangle 37.34 X 43.24  Rotation 90
+    D134   Rectangle 27.50 X 39.31  Rotation 90
+    D135   Rectangle 43.24 X 102.30  Rotation 90
+    D136   Rectangle 15.69 X 45.21  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Layer 2 Copper (Powerplane).gbr
+
+    Layers:
+    ----------------------------------------------------------------------------------
+    5V Plane  - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -------------------------------------------
+    D100   Round 114.49
+    D108   Square 84.96
+    D110   Round 68.00
+    D137   Round 44.00
+    D138   Round 334.96
+    D139   Round 82.99
+    D140   Oval 80.00 X 140.00
+    D141   Octagon 60.00
+    D142   Octagon 60.00  Thermal Relief Pad
+    D143   Octagon 60.00
+    D144   Octagon 60.00  Thermal Relief Pad
+    D145   Octagon 60.00
+    D146   Octagon 60.00  Thermal Relief Pad
+    D147   Octagon 60.00
+    D148   Octagon 60.00  Thermal Relief Pad
+    D149   Octagon 60.00
+    D150   Octagon 60.00  Thermal Relief Pad
+    D151   Octagon 60.00
+    D152   Octagon 60.00  Thermal Relief Pad
+    D153   Octagon 60.00
+    D154   Square 79.06
+    D155   Round 79.06
+    D156   Square 114.49
+    D157   Round 94.49  Thermal Relief Pad
+    D158   Round 64.96  Thermal Relief Pad
+    D159   Round 56.00  Thermal Relief Pad
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - GND Plane (Powerplane).gbr
+
+    Layers:
+    -----------------------------------------------------------------------------------
+    GND Plane  - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -------------------------------------------
+    D100   Round 114.49
+    D107   Round 84.96
+    D108   Square 84.96
+    D109   Round 48.00  Thermal Relief Pad
+    D110   Round 68.00
+    D138   Round 334.96
+    D139   Round 82.99
+    D140   Oval 80.00 X 140.00
+    D149   Octagon 60.00
+    D150   Octagon 60.00  Thermal Relief Pad
+    D151   Octagon 60.00
+    D152   Octagon 60.00  Thermal Relief Pad
+    D153   Octagon 60.00
+    D154   Octagon 60.00  Thermal Relief Pad
+    D155   Octagon 60.00
+    D156   Octagon 60.00  Thermal Relief Pad
+    D157   Octagon 60.00
+    D158   Octagon 60.00  Thermal Relief Pad
+    D159   Octagon 60.00
+    D160   Octagon 60.00  Thermal Relief Pad
+    D161   Octagon 60.00
+    D162   Octagon 60.00  Thermal Relief Pad
+    D163   Octagon 60.00
+    D164   Octagon 60.00  Thermal Relief Pad
+    D165   Octagon 60.00
+    D166   Square 79.06
+    D167   Round 79.06
+    D168   Round 59.06  Thermal Relief Pad
+    D169   Square 94.49  Thermal Relief Pad
+    D170   Square 114.49
+    D171   Round 76.00
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------
+    D10    Round 314.96
+    D11    Oval 60.00 X 120.00
+    D12    Octagon 60.00
+    D13    Square 59.06
+    D14    Round 59.06
+    D15    Square 94.49
+    D16    Round 94.49
+    D17    Square 64.96
+    D18    Round 64.96
+    D19    Round 48.00
+    D70    Round 15.00
+    D71    Round 56.00
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------
+    D20    Round 324.96
+    D21    Round 72.99
+    D22    Oval 70.00 X 130.00
+    D23    Octagon 60.00
+    D24    Square 69.06
+    D25    Round 69.06
+    D26    Square 104.49
+    D27    Round 104.49
+    D28    Square 74.96
+    D29    Round 74.96
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID  (Plated/Unplated)
+    -----------------------------------------------------------
+    T001  0.02400 inches 43    I
+    T002  0.02500 inches 1
+    T003  0.03200 inches 5     H
+    T004  0.03937 inches 26    C
+    T005  0.04000 inches 68    J
+    T006  0.04331 inches 2     W
+    T007  0.06299 inches 22    AG
+    T008  0.17717 inches 4     N
+    -----------------------------------------------------------
+    Total                171
+    -----------------------------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    39    Y      100  Round C
+    32    Y      100  Round H
+    24    Y      100  Round I
+    40    Y      100  Round J
+    177   Y      100  Round N
+    43    Y      100  Round W
+    63    Y      100  Round AG
+
+    D-Code Shape  (thou)
+    -----------------------
+    D72    Round 100.00
+    D73    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\Plots\GTEadapterBoard - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D73    Round 5.00
+
+End Of Report.

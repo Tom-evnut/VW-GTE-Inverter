@@ -1,0 +1,70 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Tuesday, April 02, 2019
+Project Path:       C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj
+Design Path:        C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb
+Design Title:       
+Created:            02-Apr-19 5:05:44 PM
+Last Saved:         02-Apr-19 6:24:54 PM
+Editing Time:       80 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+Track to Pad Error (T-P) between (-77.5 25.3) and (-77.5 24.8) on Layer "Bottom Copper".
+    Error between Component Pad U1.E.12 (Net 'N0145') and Track (Net 'N0142'), Gap is 0.2 needs to be 0.3.
+Track to Pad Error (T-P) between (-92.3 12.6) and (-92.5 12.3) on Layer "Top Copper".
+    Error between Component Pad J2.1 (Net 'N0134') and Track (Net 'N0135'), Gap is 0.2 needs to be 0.3.
+Single pin net Current Sensor 3 on J1.B20 at -10.9,-63.2
+Dangling Track from (-77.1,43.8) to (-77.3,43.8) on layer Top Copper
+
+Number of errors found : 4
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

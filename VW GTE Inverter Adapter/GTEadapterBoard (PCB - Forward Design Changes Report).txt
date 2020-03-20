@@ -1,0 +1,31 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, April 02, 2019
+Project Path:       C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj
+Design Path:        C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb
+Design Title:       
+Created:            02-Apr-19 5:05:44 PM
+Last Saved:         02-Apr-19 6:02:41 PM
+Editing Time:       59 min
+Units:              mm (precision 1)
+
+Added net "N0160".
+Added net "N0161".
+
+Added component reference "R4" of component "CR0805-FX-4420ELF", package "RESC2012X60N".
+Added component reference "LED4" of component "150080GS75000", package "LEDM2012X80N".
+Added component reference "R5" of component "CR0805-FX-4420ELF", package "RESC2012X60N".
+Added component reference "LED5" of component "150080GS75000", package "LEDM2012X80N".
+
+Connected pin "R4.1" to net "N0160".
+Connected pin "R4.2" to net "Driver Faut".
+Connected pin "LED4.1" to net "GND".
+Connected pin "LED4.2" to net "N0160".
+Connected pin "R5.1" to net "N0161".
+Connected pin "R5.2" to net "+5V".
+Connected pin "LED5.1" to net "GND".
+Connected pin "LED5.2" to net "N0161".
+
+
+End Of Report.

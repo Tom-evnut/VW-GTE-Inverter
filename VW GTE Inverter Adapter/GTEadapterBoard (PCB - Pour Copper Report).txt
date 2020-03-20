@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Tuesday, April 02, 2019
+Project Path:       C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj
+Design Path:        C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb
+Design Title:       
+Created:            02-Apr-19 5:05:44 PM
+Last Saved:         02-Apr-19 5:20:12 PM
+Editing Time:       21 min
+Units:              mm (precision 1)
+
+
+End Of Report.

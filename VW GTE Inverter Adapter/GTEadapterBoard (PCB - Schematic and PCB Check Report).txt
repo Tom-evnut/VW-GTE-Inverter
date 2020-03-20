@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Tuesday, April 02, 2019
+Project Path:       C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj
+Design Path:        C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb
+Design Title:       
+Created:            02-Apr-19 5:05:44 PM
+Last Saved:         02-Apr-19 6:02:41 PM
+Editing Time:       59 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "GTEadapterBoard"
+============================================================================
+
+
+End Of Report.

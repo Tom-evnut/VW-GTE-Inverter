@@ -1,0 +1,22 @@
+Report Written:,"Saturday, April 06, 2019",,,,,,,,
+Project Path:,C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.prj,,,,,,,,
+Design Path:,C:\Users\tomde\Documents\Electronics\Projects\Zero EV\Board Designs\VW GTE Inverter Adapter\GTEadapterBoard.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,02-04-19 17:05,,,,,,,,
+Last Saved:,02-04-19 18:34,,,,,,,,
+Editing Time:,88 min,,,,,,,,
+Units:,mm (precision 1),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+IC1,1,"74LVC1G00GV,125",,SOT95P275X110-5N,Nexperia,"74LVC1G00GV,125",,,"NXP 74LVC1G00GV,125, 2-Input NAND Logic Gate, 1.65  5.5 V, 5-Pin SC-74A"
+J2,1,30326-6002HB,,SHDR26W81P254_2X13_4060X840X94,3M,30326-6002HB,,,"3M 303 Series, Series Number 30326, 2.54mm Pitch 26 Way 2 Row Straight Header, Solder Termination, 1A"
+"LED3, LED4, LED5",3,150080GS75000,,LEDM2012X80N,Wurth Elektronik,150080GS75000,1623746,,"150080GS75000, Wurth Elektronik WL-SMCW 520 nm Green LED, 2012 (0805) Clear SMD package"
+J1,1,244856,,244856,ERNI,244856,,,Board to Board & Mezzanine Connectors 50P 1.27MM SMT VERT MALE BCKPLN
+"J3, J4, J5, J6, J7",5,20020316-G041B01LF,,SHDR4W140P0X500_1X4_2000X900X1,Amphenol Anytek,20020316-G041B01LF,,,Fixed Terminal Blocks 4P 5.00MM TERM BLK FIXED HORIZONTAL
+"R3, R4, R5",3,CR0805-FX-4420ELF,,RESC2012X60N,Bourns,CR0805-FX-4420ELF,,,Res Thick Film 0805 442 Ohm 1% 0.125W(1/8W) +/-100ppm/C Pad SMD T/R
+J10,1,M20-9990246,,HDRV2W64P0X254_1X2_508X254X864,HARWIN,M20-9990246,1730800,,"HARWIN  M20-9990246.  Board-To-Board Connector, Straight, 2.54 mm, 2 Contacts, Header, M20 Series, Through Hole"
+U1,1,OI3,,OI3,,,,,
